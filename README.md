@@ -24,6 +24,17 @@ Graphs are a data structure that present objects and their connections as "nodes
 ![image](public/images/weighted_routes.png)
 
 
+### Directed/Undirected Graphs
+
+#### Directed
+
+![image](public/images/directed_graph.png)
+
+#### Undirected
+
+![image](public/images/undirected.jpeg)
+
+
 ### Different types of questions that can be asked/solved on graphs:
 - 1. Route Between Nodes: Given a directed graph and two nodes (S and E), design an algorithm to find out whether there is a route from S to E.
 
