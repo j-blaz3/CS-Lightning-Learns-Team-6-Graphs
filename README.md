@@ -2,6 +2,13 @@
 
 # Graphs
 
+### Images
+
+![image](public/images/tree_graph.jpg)
+![image](public/images/social_network.png)
+![image](public/images/road_map.jpeg)
+
+
 ### Different types of questions that can be asked/solved on graphs:
 - 1. Route Between Nodes: Given a directed graph and two nodes (S and E), design an algorithm to find out whether there is a route from S to E.
 
