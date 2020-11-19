@@ -8,8 +8,8 @@ Graphs are a data structure that present objects and their connections as "nodes
 ### Images
 
 ![image](public/images/tree_graph.jpg)
-![image](public/images/social_network.png)
 ![image](public/images/road_map.jpeg)
+![image](public/images/social_network.png)
 
 
 ### Different types of questions that can be asked/solved on graphs:
