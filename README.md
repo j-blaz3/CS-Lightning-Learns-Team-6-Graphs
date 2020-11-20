@@ -12,13 +12,26 @@ Graphs are a data structure that present objects and their connections as "nodes
 ![image](public/images/tree_graph.jpg)
 
 #### Road map
+
 ![image](public/images/road_map.jpeg)
 
 #### Social networks
+
 ![image](public/images/social_network.png)
 
 #### Students in class
+
 ![image](public/images/student_graph.png)
+
+### Directed/Undirected Graphs
+
+#### Directed
+
+![image](public/images/directed_graph.png)
+
+#### Undirected
+
+![image](public/images/undirected.jpeg)
 
 ### Adjacency Lists and Matrices
 
@@ -31,16 +44,6 @@ Graphs are a data structure that present objects and their connections as "nodes
 ### Weighted Routes
 
 ![image](public/images/weighted_routes.png)
-
-### Directed/Undirected Graphs
-
-#### Directed
-
-![image](public/images/directed_graph.png)
-
-#### Undirected
-
-![image](public/images/undirected.jpeg)
 
 ### Depth-First Search (DFS) and Breadth-First Search (BFS)
 
