@@ -5,11 +5,19 @@
 ## Definition
 Graphs are a data structure that present objects and their connections as "nodes" and "edges" respectively.  Each node may have one or many edges connecting them to other nodes.  Two nodes with an edge between them are said to be 'adjacent'.  This method of viewing and visualizing data can be seen in many places both in software development as well as in the real world.
 
-### Images
+### Graphs - Nodes - Edges
 
+#### Trees
 ![image](public/images/tree_graph.jpg)
+
+#### Road map
 ![image](public/images/road_map.jpeg)
+
+#### Social networks
 ![image](public/images/social_network.png)
+
+#### Students
+![image](public/images/student_graph.png)
 
 ### Adjacency Lists and Matrices
 
@@ -23,7 +31,6 @@ Graphs are a data structure that present objects and their connections as "nodes
 
 ![image](public/images/weighted_routes.png)
 
-
 ### Directed/Undirected Graphs
 
 #### Directed
@@ -33,6 +40,16 @@ Graphs are a data structure that present objects and their connections as "nodes
 #### Undirected
 
 ![image](public/images/undirected.jpeg)
+
+### Depth-First Search (DFS) and Breadth-First Search (BFS)
+
+#### Depth-First
+
+![image](public/images/depth_first.jpg)
+
+#### Breadth-First
+
+![image](public/images/breadth_first.jpg)
 
 
 ### Different types of questions that can be asked/solved on graphs:
