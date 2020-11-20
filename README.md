@@ -7,7 +7,8 @@ Graphs are a data structure that present objects and their connections as "nodes
 
 ### Graphs - Nodes - Edges
 
-#### Trees
+#### Trees & Graphs 
+#### A tree is actually a type of graph, but not all graphs are trees.
 ![image](public/images/tree_graph.jpg)
 
 #### Road map
@@ -16,7 +17,7 @@ Graphs are a data structure that present objects and their connections as "nodes
 #### Social networks
 ![image](public/images/social_network.png)
 
-#### Students
+#### Students in class
 ![image](public/images/student_graph.png)
 
 ### Adjacency Lists and Matrices
