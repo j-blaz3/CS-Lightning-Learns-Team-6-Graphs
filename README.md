@@ -54,16 +54,22 @@ Graphs are a data structure that present objects and their connections as "nodes
 
 
 ### Different types of questions that can be asked/solved on graphs:
-- 1. Route Between Nodes: Given a directed graph and two nodes (S and E), design an algorithm to find out whether there is a route from S to E.
+1. Route Between Nodes: Given a directed graph and two nodes (S and E), design an algorithm to find out whether there is a route from S to E.
 
-- 2. Shortest Path: For some pair of nodes, n1 and n2, find the shortest sequence fo edges < sN, dN > (source node and destination node), such that:
+1. Shortest Path: For some pair of nodes, n1 and n2, find the shortest sequence fo edges < sN, dN > (source node and destination node), such that:
 	+ The source node in the first edge is n1
 	+ The destination node of the last edge is n2
 	+ For all edges e1 and e2 in the sequence, if e2 follows e1 in the sequence, the source node of e2 is the destination node of e1.
 
-- 3. Shortest weighted path: This is like the shortest path, except instead of choosing the shortest sequence of edges that connects two nodes, define a function on the weights of the edges in the sequence (e.g their sum) and minimize that value. This is the kind of problem solved by Google Maps when asked to compute driving directions between two points.
+1. Shortest weighted path: This is like the shortest path, except instead of choosing the shortest sequence of edges that connects two nodes, define a function on the weights of the edges in the sequence (e.g their sum) and minimize that value. This is the kind of problem solved by Google Maps when asked to compute driving directions between two points.
 
 
-### Helpful resouces
+### Helpful resources
 
-- Dijkstra's algorithm:  https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e
+* [Directed vs. Undirected Graphs](hhttps://www.baeldung.com/cs/graphs-directed-vs-undirected-graph)
+
+* [BFS vs. DFS](https://techdifferences.com/difference-between-bfs-and-dfs.html#:~:text=Difference%20Between%20BFS%20and%20DFS.%20The%20major%20difference,and%20so%20on%20until%20all%20nodes%20are%20visited)
+
+* [Dijkstra's algorithm](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+
+* [Visualizing Dijkstra's algorithm](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
