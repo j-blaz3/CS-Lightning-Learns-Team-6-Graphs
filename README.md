@@ -66,7 +66,7 @@ Graphs are a data structure that present objects and their connections as "nodes
 
 ### Helpful resources
 
-* [Directed vs. Undirected Graphs](hhttps://www.baeldung.com/cs/graphs-directed-vs-undirected-graph)
+* [Directed vs. Undirected Graphs](https://www.baeldung.com/cs/graphs-directed-vs-undirected-graph)
 
 * [BFS vs. DFS](https://techdifferences.com/difference-between-bfs-and-dfs.html#:~:text=Difference%20Between%20BFS%20and%20DFS.%20The%20major%20difference,and%20so%20on%20until%20all%20nodes%20are%20visited)
 
