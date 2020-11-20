@@ -70,6 +70,8 @@ Graphs are a data structure that present objects and their connections as "nodes
 
 * [BFS vs. DFS](https://techdifferences.com/difference-between-bfs-and-dfs.html#:~:text=Difference%20Between%20BFS%20and%20DFS.%20The%20major%20difference,and%20so%20on%20until%20all%20nodes%20are%20visited)
 
+* [Adjacency Matrix & Adjacency List](https://iq.opengenus.org/graph-representation-adjacency-matrix-adjacency-list/)
+
 * [Dijkstra's algorithm](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
 
 * [Visualizing Dijkstra's algorithm](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
